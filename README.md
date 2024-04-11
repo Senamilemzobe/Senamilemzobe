@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Senamilemzobe
 - 👀 I’m interested in front-end development, cloud development and crocheting
 - 🌱 I’m currently learning DevOps
-- 💞️ I’m looking to collaborate on any exciting projects to familiarise myselft with coding
+- 💞️ I’m looking to collaborate on any exciting projects to familiarise myself with coding
 - 📫 Reach me via LinkedIn @Senamile Mzobe
 
 <!---
